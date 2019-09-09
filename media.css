@@ -1,0 +1,18 @@
+@media only screen and (max-width: 992px){
+	
+	.portfolio-section{
+		grid-template-columns: repeat(3, 1fr);
+		margin-top: 230px;
+
+	}
+	.grid-item{
+		min-height: 40vh;
+		font-size: 16px;
+	}
+} 
+@media only screen and (max-width: 768px){
+	
+} 
+@media only screen and (max-width: 480px){
+	
+} 
